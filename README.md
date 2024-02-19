@@ -1,51 +1,20 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Sombras do Destino
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este e-book contém 5 Atos e 37 capítulos.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa ChatGPT para cria a narrativa.
+IA Generativa Bing Image Creator para a arte visual da capa.
+Ferramenta Libre Office pa edição.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Primeiro eu comecei a testa as IAs Generativas o ChatGPT, o Bing Chat ( Copilot ), e o GEMINI, no começo eu planejei usar as IAs para escrever um e-book com 30 Capítulos e de 800 a 1000 palavras cada capítulo, o ChatGPT e o GEMINI mesmo eu especificando que cada capítulo deveria conter entre 800 a 1000 palavras eles ainda continuavam a criar capítulos curto, já o Bing Chat ( Copilot ) conseguiu escrever os capítulos conforme as minhas especificações, só que infelismente o Bing Chat tem suas limitações ele só permite que você use 5 Prompts por Chat após isso deve iniciar um novo Chat perdendo tudo o que foi criado além dele não lembra do Chat anterior ou seja não tinha como eu proseguir com a hitória. Então eu resolvi escrever uma história resumida usando o ChatGPT dessa forma eu cosegui finalizar o meu e-book. 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Esse e-book uma narrativa resumida sobre amizade, aventuras e sacraficios.
+
+https://drive.google.com/file/d/1HgeWLMBSpxkbJ1vT0rvQJ27ViMy0erE-/view?usp=drive_link
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
